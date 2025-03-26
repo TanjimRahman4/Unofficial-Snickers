@@ -1,0 +1,112 @@
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.bouncing {
+  animation: bounce 2s infinite;
+}
+
+#eastereggsnickers {
+    height: 500px;
+    width: 300px;
+}
+
+#logo {
+    height: 100px;
+    width: 250px;
+}
+
+#hh1 {
+    font: bold;
+    font-family: "Bebas Neue";
+    text-align: justify;
+}
+
+#p1 {
+    font: bold;
+    font-family: "Bebas Neue";
+}
+
+#b1 {
+  font: bold;
+  font-family: "Bebas Neue";
+  border-radius: 5px;
+  height: 50px;
+  width: 150px;
+}
+
+#bodyyy {
+  background-image: url("BGss.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  width: 1350px;
+}
+
+#max {
+  float: right;
+}
+
+#h1 {
+  font: bold;
+  font-family: "Bebas Neue";
+  text-align: justify;
+  color: white;
+  position: relative;
+  top: 50px;
+  left: 500px;
+}
+
+#bb1 {
+  font: bold;
+  font-family: "Bebas Neue";
+  border-radius: 5px;
+  height: 50px;
+  width: 150px;
+  margin: 600px;
+}
+
+#card {
+  position: absolute;
+    top: 700px;
+    right: 20px;
+    width: 18rem;
+    padding: 20px;
+    background-color: #1900ff;
+    border: 1px solid #ff0000;
+    border-radius: 8px;
+}
+
+#card-img {
+  width: 100%;
+  height: auto;
+}
+
+#h11 {
+  font: bold;
+  font-family: "Bebas Neue";
+  text-align: justify;
+  color: white;
+  position: relative;
+  top: 50px;
+  left: 600px;
+}
+
+#bodyy {
+  height: 500px;
+  width: 1350px;
+}
+
+#END {
+  font: bold;
+  font-family: "Bebas Neue";
+  color: white;
+}
+
